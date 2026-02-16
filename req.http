@@ -1,0 +1,6 @@
+### user Register
+POST http://localhost:4000//user-api/register
+Content-Type: application/json
+{
+    
+}
